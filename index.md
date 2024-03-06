@@ -19,3 +19,6 @@ This webpage is used to record the learning plan, classroom notes, and summary o
 - Gene is a message
 - NGS sequencing causes a sharp decrease in cost per genome
 - Learn actively, utilize the toturial well
+#### The difference between algorithms and models
+- Algorithms focus on methods and steps to solve problems or complete tasks.
+- Models are abstract representations of the real world or data used for interpretation or prediction.
